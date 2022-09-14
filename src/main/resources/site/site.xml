@@ -1,0 +1,8 @@
+<!-- Delete this file if you are building a web app -->
+<site>
+  <mappings>
+    <mapping controller="/site/pages/response/response.js">
+      <match>type:'com.enonic.app.response:response'</match>
+    </mapping>
+  </mappings>
+</site>
